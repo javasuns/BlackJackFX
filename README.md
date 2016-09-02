@@ -7,11 +7,16 @@ This is another BlackJack game, one of the most famous casino games. It has been
 **Split Hand:** You can play up to two hands at a time. This is the case when you get two same value cards and you split.
 **Player's Basic Actions:** Bet, Double, Split, Stand and Draw.
 
-Screenshots
+## Screenshots
 
-<img src="https://dl.dropboxusercontent.com/u/109459668/iPhone6A(2).png?raw=1" width="300">
+<img src="https://dl.dropboxusercontent.com/u/109459668/iPhone6A(2).png?raw=1" width="200">
+
+## iPhone App
+<img src="https://dl.dropboxusercontent.com/u/109459668/iTunes.jpg"> 
+
+Apple Store (iOS)
 
 
-Credits:
+## Credits:
 
 Playing Cards - http://www.snap2objects.com/2012/01/free-vector-playing-cards-deck/
