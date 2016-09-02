@@ -9,7 +9,7 @@ This is another BlackJack game, one of the most famous casino games. It has been
 
 ## Screenshots
 
-<img src="https://dl.dropboxusercontent.com/u/109459668/iPhone6A(2).png?raw=1" width="200"/> <img src="https://dl.dropboxusercontent.com/u/109459668/iPhone%205.jpeg?raw=1" width="200"/>
+<img src="https://dl.dropboxusercontent.com/u/109459668/iPhone6A(2).png?raw=1" width="160"/> <img src="https://dl.dropboxusercontent.com/u/109459668/iPhone%205.jpeg?raw=1" width="160"/>
 
 ## iPhone App
 <img src="https://dl.dropboxusercontent.com/u/109459668/iTunes.jpg"> 
