@@ -1,6 +1,6 @@
 # BlackJackFX
 
-This is another BlackJack game, one of the most famous casino games. It has been built with the use of JavaFX and Gluon Mobile plugin (javafxports) to run on Desktop, Android and iOS platforms with the very same codebase. The iOS version is already on the App Store with the name BlackJackFX. You can follow this link to download it.
+This is another BlackJack game, one of the most famous casino games. It has been built with the use of JavaFX and Gluon Mobile plugin (javafxports) to run on Desktop, Android and iOS platforms with the very same codebase. The iOS version is already on the App Store with the name BlackJackFX. You can follow [this link](https://itunes.apple.com/gb/app/blackjackfx/id1146450853?mt=8) to download it.
 
 **Objective:** Beat dealer's hand without going over 21.  
 **Special Rule:** If your first two cards value to 21 you win instantly (BlackJack).  
@@ -11,10 +11,12 @@ This is another BlackJack game, one of the most famous casino games. It has been
 
 <img src="https://dl.dropboxusercontent.com/u/109459668/iPhone6A(2).png?raw=1" width="200">
 
+<img src="https://dl.dropboxusercontent.com/u/109459668/iPhone%205.jpeg?raw=1" width "10">
+
 ## iPhone App
 <img src="https://dl.dropboxusercontent.com/u/109459668/iTunes.jpg"> 
 
-Apple Store (iOS)
+[Apple Store (iOS)](https://itunes.apple.com/gb/app/blackjackfx/id1146450853?mt=8)
 
 
 ## Credits:
