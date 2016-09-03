@@ -20,7 +20,6 @@ mainClassName = 'com.javasuns.blackjack.Main'
 
 dependencies {
     compile 'com.gluonhq:charm:3.0.0'
-
     androidRuntime 'com.gluonhq:charm-android:3.0.0'
     iosRuntime 'com.gluonhq:charm-ios:3.0.0'
     desktopRuntime 'com.gluonhq:charm-desktop:3.0.0'
