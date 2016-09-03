@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<StackPane fx:id="mainMenuPane" cache="true" prefHeight="600.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javasuns.blackjack.controller.MainMenuController">
+   <children>
+      <StackPane opacity="0.3" style="-fx-background-color: black;" />
+      <VBox alignment="CENTER" cache="true" spacing="5.0" StackPane.alignment="TOP_CENTER">
+         <children>
+            <ImageView fitHeight="250.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/Logo.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="btnNewGame" mnemonicParsing="false" prefWidth="250.0" styleClass="menu_button" text="New Game">
+               <VBox.margin>
+                  <Insets top="20.0" />
+               </VBox.margin>
+            </Button>
+            <Button fx:id="btnContinue" mnemonicParsing="false" prefWidth="250.0" styleClass="menu_button" text="Continue" />
+         </children>
+         <StackPane.margin>
+            <Insets bottom="50.0" left="20.0" right="20.0" top="40.0" />
+         </StackPane.margin>
+      </VBox>
+   </children>
+</StackPane>
