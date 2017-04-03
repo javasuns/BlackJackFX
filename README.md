@@ -12,7 +12,7 @@ This is another BlackJack game, one of the most famous casino games. It has been
 <img src="https://www.dropbox.com/s/irbgsj3gj936be2/iPhone6A%282%29.png?raw=1" width="160"/> <img src="https://www.dropbox.com/s/oavvubpg4dssjuj/iPhone%205.jpeg?raw=1" width="160"/>
 
 ## iPhone App
-<img src="https://www.dropbox.com/s/5hwrsjnxhwe1sae/iTunes.jpg"> 
+<img src="https://www.dropbox.com/s/5hwrsjnxhwe1sae/iTunes.jpg?raw=1"> 
 
 [Apple Store (iOS)](https://itunes.apple.com/gb/app/blackjackfx/id1146450853?mt=8)
 
