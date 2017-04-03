@@ -9,10 +9,10 @@ This is another BlackJack game, one of the most famous casino games. It has been
 
 ## Screenshots
 
-<img src="https://dl.dropboxusercontent.com/u/109459668/iPhone6A(2).png?raw=1" width="160"/> <img src="https://dl.dropboxusercontent.com/u/109459668/iPhone%205.jpeg?raw=1" width="160"/>
+<img src="https://www.dropbox.com/s/irbgsj3gj936be2/iPhone6A%282%29.png?raw=1" width="160"/> <img src="https://www.dropbox.com/s/oavvubpg4dssjuj/iPhone%205.jpeg?raw=1" width="160"/>
 
 ## iPhone App
-<img src="https://dl.dropboxusercontent.com/u/109459668/iTunes.jpg"> 
+<img src="https://www.dropbox.com/s/5hwrsjnxhwe1sae/iTunes.jpg"> 
 
 [Apple Store (iOS)](https://itunes.apple.com/gb/app/blackjackfx/id1146450853?mt=8)
 
